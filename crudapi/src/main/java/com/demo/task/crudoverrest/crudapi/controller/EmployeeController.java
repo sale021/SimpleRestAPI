@@ -23,7 +23,7 @@ import com.demo.task.crudoverrest.crudapi.service.EmployeeService;
 public class EmployeeController {
 
 	@Autowired
-	EmployeeService employeeService;
+	private EmployeeService employeeService;
 
 	/**
 	 * Retrieve all employees
