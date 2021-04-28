@@ -1,4 +1,4 @@
-# Interview Homework
+# Simple CRUD application
 
 >This is simple Spring Boot REST application that demonstrates functionality of basic CRUD operations.
 
